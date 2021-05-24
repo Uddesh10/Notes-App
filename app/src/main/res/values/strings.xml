@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="grid_view">grid_view</string>
+    <string name="list_view">list_view</string>
+    <string name="notes">Notes</string>
+    <string name="search">search</string>
+    <string name="to_do">To-Do</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="back_btn">back_btn</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="note_save_btn">note_save_btn</string>
+    <string name="note_delete_btn">note_delete_btn</string>
+    <string name="task_priority">task_priority</string>
+    <string name="delete_task">delete_task</string>
+    <string name="edit_task">Edit Task</string>
+</resources>
